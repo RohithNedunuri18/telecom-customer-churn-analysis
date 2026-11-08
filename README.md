@@ -50,7 +50,7 @@ Churned customers had an average monthly charge of $74.44, compared with $61.31 
 These findings show associations in the dataset, not proof of causation.
 
 ## Power BI Dashboard
-
+![Telecom Customer Churn Dashboard](Screenshots/churn_dashboard.png)
 The interactive dashboard includes:
 - Total customers
 - Churned customers
